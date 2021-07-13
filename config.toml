@@ -1,4 +1,6 @@
-baseurl = "/"
+baseURL = "/"
+theme = "lanyon-hugo"
+
 
 [Params]
     Title = "Yea-Hung Chen"
