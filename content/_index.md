@@ -4,7 +4,7 @@ title: About
 weight: "1"
 ---
 
-I am an epidemiologist at the [University of California, San Francisco](https://ucsf.edu) (UCSF). My research currently focuses on excess mortality associated with the COVID-19 pandemic. Previously, my work primarily involved HIV-related risk behaviors. 
+I am an epidemiologist at the [University of California, San Francisco](https://ucsf.edu) (UCSF). My research focuses on excess mortality associated with the COVID-19 pandemic. Previously, my work primarily involved HIV-related risk behaviors. 
 
 I teach an introductory biostatistics course for UCSF's [Master of Science in Global Health program](https://globalhealthsciences.ucsf.edu/education/masters-program). In Winter 2019 and Fall 2019, I taught an introductory course on [R](https://r-project.org) for UCSF's [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu).
 
