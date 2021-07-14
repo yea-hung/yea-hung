@@ -31,5 +31,5 @@ Our [study on the number of people in San Francisco who inject drugs](https://li
 
 # Projects
 
-I maintain a [web tool for visualizing COVID-19 data](https://covid-19.rbind.io) and [R code for scraping data](https://github.com/yea-hung/hsd) on US homeless shelters.
+I maintain a [website with visualizations of COVID-19 data](https://covid-19.rbind.io) and [R code for scraping data](https://github.com/yea-hung/hsd) on US homeless shelters.
 
