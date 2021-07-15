@@ -14,9 +14,9 @@ More information on my academic activities can be found in my [curriculum vitae]
 
 We have published three papers on excess mortality associated with the COVID-19 pandemic:
 
-- **Chen Y-H**, Glymour MM, Catalano R, Fernandez A, Nguyen T, Kushel M, Bibbins-Domingo K. [Excess mortality in California during the coronavirus disease 2019 pandemic, March to August 2020](https://dx.doi.org/10.1001/jamainternmed.2020.7578). *JAMA Intern Med*. 2021;181(5):705-707.
-- **Chen Y-H**, Glymour M, Riley A, Balmes J, Duchowny K, Harrison R, Matthay E, Bibbins-Domingo K. [Excess mortality associated with the COVID-19 pandemic among Californians 18-65 years of age, by occupational sector and occupation: March through November 2020](https://dx.doi.org/10.1371/journal.pone.0252454). *PLoS One*. 2021;16(6):e0252454. 
 - Riley AR, **Chen Y-H**, Matthay EC, Glymour MM, Torres JM, Fernandez A, Bibbins-Domingo K. [Excess mortality among Latino people in California during the COVID-19 pandemic](https://doi.org/10.1016/j.ssmph.2021.100860). *SSM Popul Health*. 2021;15:100860.
+- **Chen Y-H**, Glymour M, Riley A, Balmes J, Duchowny K, Harrison R, Matthay E, Bibbins-Domingo K. [Excess mortality associated with the COVID-19 pandemic among Californians 18-65 years of age, by occupational sector and occupation: March through November 2020](https://dx.doi.org/10.1371/journal.pone.0252454). *PLoS One*. 2021;16(6):e0252454. 
+- **Chen Y-H**, Glymour MM, Catalano R, Fernandez A, Nguyen T, Kushel M, Bibbins-Domingo K. [Excess mortality in California during the coronavirus disease 2019 pandemic, March to August 2020](https://dx.doi.org/10.1001/jamainternmed.2020.7578). *JAMA Intern Med*. 2021;181(5):705-707.
 
 We have also released [two policy briefs](https://epibiostat.ucsf.edu/news/california-covid-related-deaths-research-policy-briefs) on COVID-19 in California.
 
