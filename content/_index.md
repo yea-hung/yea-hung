@@ -6,9 +6,11 @@ weight: "1"
 
 I am an epidemiologist at the [University of California, San Francisco](https://ucsf.edu) (UCSF). My research focuses on excess mortality associated with the COVID-19 pandemic. Previously, my work primarily involved HIV-related risk behaviors. 
 
-I teach an introductory biostatistics course for UCSF's [Master of Science in Global Health program](https://globalhealthsciences.ucsf.edu/education/masters-program). In Winter 2019 and Fall 2019, I taught an introductory course on [R](https://r-project.org) for UCSF's [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu).
-
 More information on my academic activities can be found in my [curriculum vitae](cv_yea-hung_chen.pdf) and on my [UCSF profile page](https://profiles.ucsf.edu/yea-hung.chen).
+
+# Teaching
+
+I teach an introductory biostatistics course for UCSF's [Master of Science in Global Health program](https://globalhealthsciences.ucsf.edu/education/masters-program). In Winter 2019 and Fall 2019, I taught an introductory course on [R](https://r-project.org) for UCSF's [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu).
 
 # Research
 
@@ -35,4 +37,3 @@ Our [study on the number of people in San Francisco who inject drugs](https://li
 # Projects
 
 I maintain [interactive visualizations of COVID-19 data](https://covid-19.rbind.io) and [R code for scraping data](https://github.com/yea-hung/hsd) on US homeless shelters.
-
