@@ -20,7 +20,7 @@ My research focuses on excess mortality associated with the COVID-19 pandemic. W
 
 We have also released [two policy briefs](https://epibiostat.ucsf.edu/news/california-covid-related-deaths-research-policy-briefs) on COVID-19 in California.
 
-More information on my research can be found in my [curriculum vitae](cv_yea-hung_chen.pdf) and on my [UCSF profile page](https://profiles.ucsf.edu/yea-hung.chen).
+More information on my research can be found in my [CV](cv_yea-hung_chen.pdf) and on my [UCSF profile page](https://profiles.ucsf.edu/yea-hung.chen).
 
 # In the news
 
@@ -38,7 +38,7 @@ I maintain [interactive visualizations of COVID-19 data](https://covid-19.rbind.
 
 # Curriculum vitae
 
-My curriculum vitae is available [here](cv_yea-hung_chen.pdf).
+A recent version of my CV is available [here](cv_yea-hung_chen.pdf).
 
 # Contact
 
