@@ -32,6 +32,10 @@ Our [study on excess mortality during the first 6 months of the pandemic](https:
 
 Our [study on the number of people in San Francisco who inject drugs](https://link.springer.com/article/10.1007/s10461-015-1268-7) has been cited by [*The New York Times*](https://www.nytimes.com/2017/10/05/us/california-today-a-drug-crisis-proposal.html), [*Mother Jones*](https://www.motherjones.com/environment/2017/07/opioid-epidemic-heroin-safe-injection-site-fentanyl-meth-needle/), [*The San Francisco Chronicle*](https://www.sfchronicle.com/politics/article/San-Francisco-moving-toward-opening-nation-s-12219347.php), [*The San Francisco Examiner*](https://www.sfexaminer.com/news/san-francisco-gets-serious-about-safe-injection-sites/), [*SF Weekly*](https://www.sfweekly.com/news/safe-injection-site-inches-closer-to-reality/), and [NBC Bay Area](https://www.nbcbayarea.com/news/local/supervised-injection-sites-2/190659/).
 
+# In action
+
+Our [study on excess mortality and occupation](https://dx.doi.org/10.1371/journal.pone.0252454) has been cited in  [Senate committee analysis of a state bill](https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202120220SB606#) on workplace safety and in a [press release](https://seiuca.org/press-releases/2021/01/25/removing-workers-from-vaccination-priority-list-shows-that-leaders-view-them-as-expendable-not-essential/) from SEIU California. The study has also been cited in opinion pieces in [*The Washington Policy*](https://www.washingtonpost.com/opinions/2021/01/26/n95-masks-safest-next-best-options/) and *Stat* ([here](https://www.statnews.com/2021/07/01/essential-workers-getting-vaccinated-something-to-celebrate/) and [here](https://www.statnews.com/2021/07/20/circumventing-covid-19-with-better-ventilation-and-air-quality/)).
+
 # Projects
 
 I maintain [interactive visualizations of COVID-19 data](https://covid-19.rbind.io) and [R code for scraping data](https://github.com/yea-hung/hsd) on US homeless shelters.
