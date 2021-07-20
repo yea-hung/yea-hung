@@ -38,5 +38,8 @@ I maintain [interactive visualizations of COVID-19 data](https://covid-19.rbind.
 
 # Curriculum vitae
 
-My CV is available [here](cv_yea-hung_chen.pdf).
+My curriculum vitae is available [here](cv_yea-hung_chen.pdf).
 
+# Contact
+
+You may reach me via email at `<first>.<last>@ucsf.edu`. If you wish to send me an encrypted file, please use [this](yea-hung_chen.asc) public key.
