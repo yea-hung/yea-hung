@@ -20,6 +20,8 @@ My research currently focuses on the COVID-19 pandemic. We have published three 
 
 We have additionally released [two policy briefs](https://epibiostat.ucsf.edu/news/california-covid-related-deaths-research-policy-briefs) on COVID-19 in California.
 
+A full list of my publications is available in my [CV](cv_yea-hung_chen.pdf)
+
 # In the news
 
 Our [study on excess mortality among California Latinos](https://doi.org/10.1016/j.ssmph.2021.100860) has been cited by [Telemundo 48](https://www.telemundoareadelabahia.com/noticias/local/estudio-los-latinos-son-la-comunidad-que-ha-registrado-mas-muertes-por-coronavirus/2126348/) and [Univision 14](https://www.univision.com/local/san-francisco-kdtv/estudio-revela-que-la-mayoria-de-las-muertes-por-coronavirus-en-california-han-sido-en-latinos-video).
