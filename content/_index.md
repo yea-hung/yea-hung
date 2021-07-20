@@ -20,7 +20,7 @@ My research currently focuses on the COVID-19 pandemic. We have published three 
 
 We have additionally released [two policy briefs](https://epibiostat.ucsf.edu/news/california-covid-related-deaths-research-policy-briefs) on COVID-19 in California.
 
-A full list of my publications is available in my [CV](cv_yea-hung_chen.pdf)
+A full list of my publications is available in my [CV](cv_yea-hung_chen.pdf).
 
 # In the news
 
