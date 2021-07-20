@@ -4,7 +4,7 @@ title: About
 weight: "1"
 ---
 
-I am an epidemiologist at the [University of California, San Francisco](https://ucsf.edu) (UCSF), studying the COVID-19 pandemic. Previously, my work primarily involved HIV-related risk behaviors. 
+I am an epidemiologist at the [University of California, San Francisco](https://ucsf.edu) (UCSF).
 
 # Teaching
 
