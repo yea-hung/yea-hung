@@ -24,6 +24,13 @@ We have additionally released [two policy briefs](https://epibiostat.ucsf.edu/ne
 
 A full list of my publications is available in my [CV](cv_yea-hung_chen.pdf).
 
+# In action
+
+Our [study on excess mortality and occupation](https://dx.doi.org/10.1371/journal.pone.0252454) has been cited in an [amicus brief](https://publichealth.gwu.edu/sites/default/files/OSHA%20Rule%20-%20public%20health%20amicus%20brief%20FILED.pdf) submitted to the United States Court of Appeals for the Sixth Circuit in a case involving vaccination in workplace settings,  [committee analysis of a California Senate bill](https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202120220SB606#) on workplace safety, and in an SEIU California [press release](https://seiuca.org/press-releases/2021/01/25/removing-workers-from-vaccination-priority-list-shows-that-leaders-view-them-as-expendable-not-essential/). The study has also been cited in opinion pieces in *The Washington Post* ([here](https://www.washingtonpost.com/opinions/2021/01/26/n95-masks-safest-next-best-options/) and [here](https://www.washingtonpost.com/opinions/2021/10/18/racial-disparities-may-be-emerging-breakthrough-infections-we-must-track-them-better/)) and *Stat* ([here](https://www.statnews.com/2021/07/01/essential-workers-getting-vaccinated-something-to-celebrate/) and [here](https://www.statnews.com/2021/07/20/circumventing-covid-19-with-better-ventilation-and-air-quality/)).
+
+Our [study on the number of people in San Francisco who inject drugs](https://doi.org/10.1007/s10461-015-1268-7) was cited in a San Francisco Safe Injection Services Task Force [report](https://www.sfdph.org/dph/files/SIStaskforce/SIS-Task-Force-Final-Report-2017.pdf) recommending the establishment of safe injection service sites in San Francisco.
+
+
 # In the news
 
 Our [study on excess mortality among California Latinos](https://doi.org/10.1016/j.ssmph.2021.100860) has been cited by [Telemundo 48](https://www.telemundoareadelabahia.com/noticias/local/estudio-los-latinos-son-la-comunidad-que-ha-registrado-mas-muertes-por-coronavirus/2126348/) and [Univision 14](https://www.univision.com/local/san-francisco-kdtv/estudio-revela-que-la-mayoria-de-las-muertes-por-coronavirus-en-california-han-sido-en-latinos-video).
@@ -34,11 +41,6 @@ Our [study on excess mortality during the first 6 months of the pandemic](https:
 
 Our [study on the number of people in San Francisco who inject drugs](https://doi.org/10.1007/s10461-015-1268-7) was cited by [*The New York Times*](https://www.nytimes.com/2017/10/05/us/california-today-a-drug-crisis-proposal.html), [*Mother Jones*](https://www.motherjones.com/environment/2017/07/opioid-epidemic-heroin-safe-injection-site-fentanyl-meth-needle/), [*The San Francisco Chronicle*](https://www.sfchronicle.com/politics/article/San-Francisco-moving-toward-opening-nation-s-12219347.php), [*The San Francisco Examiner*](https://www.sfexaminer.com/news/san-francisco-gets-serious-about-safe-injection-sites/), [*SF Weekly*](https://www.sfweekly.com/news/safe-injection-site-inches-closer-to-reality/), and [NBC Bay Area](https://www.nbcbayarea.com/news/local/supervised-injection-sites-2/190659/).
 
-# In action
-
-Our [study on excess mortality and occupation](https://dx.doi.org/10.1371/journal.pone.0252454) has been cited in an [amicus brief](https://publichealth.gwu.edu/sites/default/files/OSHA%20Rule%20-%20public%20health%20amicus%20brief%20FILED.pdf) submitted to the United States Court of Appeals for the Sixth Circuit in a case involving vaccination in workplace settings,  [committee analysis of a California Senate bill](https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202120220SB606#) on workplace safety, and in an SEIU California [press release](https://seiuca.org/press-releases/2021/01/25/removing-workers-from-vaccination-priority-list-shows-that-leaders-view-them-as-expendable-not-essential/). The study has also been cited in opinion pieces in *The Washington Post* ([here](https://www.washingtonpost.com/opinions/2021/01/26/n95-masks-safest-next-best-options/) and [here](https://www.washingtonpost.com/opinions/2021/10/18/racial-disparities-may-be-emerging-breakthrough-infections-we-must-track-them-better/)) and *Stat* ([here](https://www.statnews.com/2021/07/01/essential-workers-getting-vaccinated-something-to-celebrate/) and [here](https://www.statnews.com/2021/07/20/circumventing-covid-19-with-better-ventilation-and-air-quality/)).
-
-Our [study on the number of people in San Francisco who inject drugs](https://doi.org/10.1007/s10461-015-1268-7) was cited in a San Francisco Safe Injection Services Task Force [report](https://www.sfdph.org/dph/files/SIStaskforce/SIS-Task-Force-Final-Report-2017.pdf) recommending the establishment of safe injection service sites in San Francisco.
 
 # Projects
 
