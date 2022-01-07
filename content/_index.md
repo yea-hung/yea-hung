@@ -29,7 +29,7 @@ A full list of my publications is available in my [CV](cv_yea-hung_chen.pdf).
 Our [study on excess mortality and occupation](https://dx.doi.org/10.1371/journal.pone.0252454) has been cited in:
 
 - an [ amicus curiae brief](https://www.supremecourt.gov/DocketPDF/21/21A244/206948/20211230132243997_21A244%20-247%20bsac%20American%20Public%20Health%20Assoc.pdf) submitted to the Supreme Court of the United States, in a case involving vaccination in workplace settings
-- an [ amicus curiae brief](https://publichealth.gwu.edu/sites/default/files/OSHA%20Rule%20-%20public%20health%20amicus%20brief%20FILED.pdf) submitted to the United States Court of Appeals for the Sixth Circuit, in a case involving vaccination in workplace setting
+- an [ amicus curiae brief](https://publichealth.gwu.edu/sites/default/files/OSHA%20Rule%20-%20public%20health%20amicus%20brief%20FILED.pdf) submitted to the United States Court of Appeals for the Sixth Circuit, in a case involving vaccination in workplace settings
 - [committee analysis of a California Senate bill](https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202120220SB606#) on workplace safety
 
 The study has also been cited in opinion pieces in *The Washington Post* ([here](https://www.washingtonpost.com/opinions/2021/01/26/n95-masks-safest-next-best-options/) and [here](https://www.washingtonpost.com/opinions/2021/10/18/racial-disparities-may-be-emerging-breakthrough-infections-we-must-track-them-better/)) and *Stat* ([here](https://www.statnews.com/2021/07/01/essential-workers-getting-vaccinated-something-to-celebrate/) and [here](https://www.statnews.com/2021/07/20/circumventing-covid-19-with-better-ventilation-and-air-quality/)).
