@@ -12,8 +12,9 @@ I teach an introductory biostatistics course for UCSF's [Master of Science in Gl
 
 # Research
 
-My research currently focuses on the COVID-19 pandemic and its effects on mortality in California. We have published five papers on the topic:
+My research currently focuses on the COVID-19 pandemic and its effects on mortality in California. We have published six papers on the topic:
 
+- Thomas MD, Matthay EC, Duchowny KA, Riley AR, Khela H, **Chen Y-H**, Bibbins-Domingo K, Glymour MM. [A descriptive analysis of 2020 California Occupational Safety and Health Administration covid-19-related complaints](https://doi.org/10.1016/j.ssmph.2021.101016). *SSM Popul Health*. 2022;17:101016. <!-- online December 2021 -->
 - Wrigley-Field E, Kiang MV, Riley AR, Barbieri M, **Chen Y-H**, Duchowny KA, Matthay EC, Van Riper D, Jegathesan K, Bibbins-Domingo K, Leider JP. [Geographically targeted COVID-19 vaccination is more equitable and averts more deaths than age-based thresholds alone](https://dx.doi.org/10.1126/sciadv.abj2099). *Sci Adv*. 2021;7(40):eabj2099.
 - Riley AR, **Chen Y-H**, Matthay EC, Glymour MM, Torres JM, Fernandez A, Bibbins-Domingo K. [Excess mortality among Latino people in California during the COVID-19 pandemic](https://doi.org/10.1016/j.ssmph.2021.100860). *SSM Popul Health*. 2021;15:100860.
 - **Chen Y-H**, Glymour M, Riley A, Balmes J, Duchowny K, Harrison R, Matthay E, Bibbins-Domingo K. [Excess mortality associated with the COVID-19 pandemic among Californians 18-65 years of age, by occupational sector and occupation: March through November 2020](https://dx.doi.org/10.1371/journal.pone.0252454). *PLoS One*. 2021;16(6):e0252454. 
