@@ -12,7 +12,7 @@ I teach an introductory biostatistics course for UCSF's [Master of Science in Gl
 
 # Research
 
-My research currently focuses on the COVID-19 pandemic and its effects on mortality in California. We have published six papers on the topic:
+My research currently focuses on the COVID-19 pandemic and its effects on mortality in California. We have published several papers on the topic:
 
 - Thomas MD, Matthay EC, Duchowny KA, Riley AR, Khela H, **Chen Y-H**, Bibbins-Domingo K, Glymour MM. [A descriptive analysis of 2020 California Occupational Safety and Health Administration COVID-19-related complaints](https://doi.org/10.1016/j.ssmph.2021.101016). *SSM Popul Health*. 2022;17:101016. <!-- online December 2021 -->
 - Wrigley-Field E, Kiang MV, Riley AR, Barbieri M, **Chen Y-H**, Duchowny KA, Matthay EC, Van Riper D, Jegathesan K, Bibbins-Domingo K, Leider JP. [Geographically targeted COVID-19 vaccination is more equitable and averts more deaths than age-based thresholds alone](https://dx.doi.org/10.1126/sciadv.abj2099). *Sci Adv*. 2021;7(40):eabj2099.
