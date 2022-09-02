@@ -24,8 +24,9 @@ My research currently focuses on the COVID-19 pandemic and its effects on mortal
 - **Chen Y-H**, Glymour MM, Catalano R, Fernandez A, Nguyen T, Kushel M, Bibbins-Domingo K. [Excess mortality in California during the coronavirus disease 2019 pandemic, March to August 2020](https://doi.org/10.1001/jamainternmed.2020.7578). *JAMA Intern Med*. 2021;181(5):705-707.
 - Catalano R, Glymour MM, **Chen Y-H**, Bibbins-Domingo K. [Sheltering in place and the likelihood of nonnatural death](https://doi.org/10.1093/aje/kwab062). *Am J Epidemiol*. 2021;190(6):1075-1080. 
 
+<!--
 We have additionally released [two policy briefs](https://epibiostat.ucsf.edu/news/california-covid-related-deaths-research-policy-briefs) on the COVID-19 pandemic in California.
-
+-->
 A full list of my publications is available in my [CV](cv_yea-hung_chen.pdf).
 
 # In action
