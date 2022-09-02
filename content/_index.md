@@ -10,6 +10,7 @@ I am an epidemiologist at the [University of California, San Francisco](https://
 
 My research currently focuses on the COVID-19 pandemic and its effects on mortality. We have published several papers on the topic:
 
+- **Chen Y-H**,  Riley AR, Duchowny KA, Aschmann HE, Chen R, Kiang MV,  Mooney A, Stokes AC, Glymour MM, Bibbins-Domingo K. [COVID-19 mortality and excess mortality among working-age residents in California, USA, by occupational sector: A longitudinal cohort analysis of mortality surveillance data](https://doi.org/10.1016/S2468-2667(22)00191-8). *Lancet Public Health*. 2022;7(9):e744-e753.
 - **Chen Y-H**, Matthay EC, Chen R, DeVost SA, Duchowny K, Riley AR, Bibbins-Domingo K,Glymour MM. [Excess mortality in California by education during the COVID-19 pandemic](https://doi.org/10.1016/j.amepre.2022.06.020). *Am J Prev Med*. 2022. <!-- July 2022 -->
 - **Chen Y-H**, Stokes AC, Aschmann HE, Chen R, DeVost S, Kiang MV, Koliwad S, Riley AR, Glymour MM, Bibbins-Domingo K. [Excess natural-cause deaths in California by cause and setting: March 2020 through February 2021](https://doi.org/10.1093/pnasnexus/pgac079). *PNAS Nexus*. 2022;1(3):pgac079. <!-- July 2022 -->
 - Kiang MV, Acosta RJ, **Chen Y-H**, Matthay EC, Tsai AC, Basu S, Glymour MM, Bibbins-Domingo K, Humphreys K, Arthur KN. [Sociodemographic and geographic disparities in excess fatal drug overdoses during the COVID-19 pandemic in California: A population-based study](https://doi.org/10.1016/j.lana.2022.100237). *Lancet Reg Health Am*. 2022;11:100237.  <!-- July 2022 -->
