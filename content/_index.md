@@ -10,6 +10,7 @@ I am an epidemiologist at the [University of California, San Francisco](https://
 
 My research currently focuses on the COVID-19 pandemic and its effects on mortality. We have published several papers on the topic:
 
+- Aschmann HE, Riley AR, Chen R, **Chen Y-H**, Bibbins-Domingo K, Stokes AC, Glymour MM, Kiang MV. [Dynamics of racial disparities in all-cause mortality during the COVID-19 pandemic](https://doi.org/10.1073/pnas.2210941119). *PNAS*. 2022; 119(40):e2210941119. 
 - **Chen Y-H**,  Riley AR, Duchowny KA, Aschmann HE, Chen R, Kiang MV,  Mooney A, Stokes AC, Glymour MM, Bibbins-Domingo K. [COVID-19 mortality and excess mortality among working-age residents in California, USA, by occupational sector: A longitudinal cohort analysis of mortality surveillance data](https://doi.org/10.1016/S2468-2667(22)00191-8). *Lancet Public Health*. 2022;7(9):e744-e753.
 - **Chen Y-H**, Matthay EC, Chen R, DeVost SA, Duchowny K, Riley AR, Bibbins-Domingo K,Glymour MM. [Excess mortality in California by education during the COVID-19 pandemic](https://doi.org/10.1016/j.amepre.2022.06.020). *Am J Prev Med*. 2022. <!-- July 2022 -->
 - **Chen Y-H**, Stokes AC, Aschmann HE, Chen R, DeVost S, Kiang MV, Koliwad S, Riley AR, Glymour MM, Bibbins-Domingo K. [Excess natural-cause deaths in California by cause and setting: March 2020 through February 2021](https://doi.org/10.1093/pnasnexus/pgac079). *PNAS Nexus*. 2022;1(3):pgac079. <!-- July 2022 -->
@@ -54,13 +55,15 @@ Our [study on excess mortality during the first 6 months of the pandemic](https:
 
 Our [study on the number of people in San Francisco who inject drugs](https://doi.org/10.1007/s10461-015-1268-7) was cited by [*The New York Times*](https://www.nytimes.com/2017/10/05/us/california-today-a-drug-crisis-proposal.html), [*Mother Jones*](https://www.motherjones.com/environment/2017/07/opioid-epidemic-heroin-safe-injection-site-fentanyl-meth-needle/), [*The San Francisco Chronicle*](https://www.sfchronicle.com/politics/article/San-Francisco-moving-toward-opening-nation-s-12219347.php), [*The San Francisco Examiner*](https://www.sfexaminer.com/news/san-francisco-gets-serious-about-safe-injection-sites/), [*SF Weekly*](https://www.sfweekly.com/news/safe-injection-site-inches-closer-to-reality/), and [NBC Bay Area](https://www.nbcbayarea.com/news/local/supervised-injection-sites-2/190659/).
 
+# Teaching
+
+From 2017 through 2021, I taught an introductory biostatistics course for UCSF's [Master of Science in Global Health program](https://globalhealthsciences.ucsf.edu/education/masters-program). In Winter 2019 and Fall 2019, I taught an introductory course on [R](https://r-project.org) for UCSF's [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu).
+
 # Projects
 
 I maintain [interactive visualizations of COVID-19 data](https://covid-19.rbind.io) and [R code for scraping data](https://github.com/yea-hung/hsd) on US homeless shelters.
 
-# Teaching
 
-From 2017 through 2021, I taught an introductory biostatistics course for UCSF's [Master of Science in Global Health program](https://globalhealthsciences.ucsf.edu/education/masters-program). In Winter 2019 and Fall 2019, I taught an introductory course on [R](https://r-project.org) for UCSF's [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu).
 
 # Curriculum vitae
 
